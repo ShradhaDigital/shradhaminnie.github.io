@@ -7,7 +7,8 @@ Specialist, Marketing Technology Operations
 Results‑driven marketing professional with 13+ years of experience leading digital marketing, social media marketing, pixel management, conversion API, demand generation, and brand growth initiatives across automotive, education, SaaS, and enterprise technology sectors. Proven ability to scale traffic, leads, and conversions through data‑driven strategy, SEO, paid media, marketing automation, and cross‑functional leadership. Adept at managing multi‑location marketing programs, budgets, vendors, and high‑performing teams.
 
 CORE COMPETENCIES
-Digital Marketing Strategy • Pixel management • Email Marketing • Growth Marketing • SEO (On‑page, Off‑page, Local) • Google Ads & Bing Ads • Meta/Facebook Ads • Marketing Automation (HubSpot) • Google Analytics, GA4, GTM • Data Studio / Looker Studio • Conversion Rate Optimization • Landing Pages • Content Marketing • Social Media Marketing • Marketing Budget Management • Vendor Management • Campaign Reporting & Attribution • conversion tracking • Team Leadership • Stakeholder Communication
+- Digital Marketing Strategy 
+- Pixel management • Email Marketing • Growth Marketing • SEO (On‑page, Off‑page, Local) • Google Ads & Bing Ads • Meta/Facebook Ads • Marketing Automation (HubSpot) • Google Analytics, GA4, GTM • Data Studio / Looker Studio • Conversion Rate Optimization • Landing Pages • Content Marketing • Social Media Marketing • Marketing Budget Management • Vendor Management • Campaign Reporting & Attribution • conversion tracking • Team Leadership • Stakeholder Communication
 
 PROFESSIONAL EXPERIENCE
 Digital Marketing Executive — The Humberview Group (Automotive)
