@@ -1,4 +1,4 @@
-# shradhaminnie.github.io
+# Shradha Sharma Resume
 Digital Marketing Expert and Growth Strategist with 13+ years of hands-on experience planning, launching, and scaling performance marketing campaigns across Google, Meta, LinkedIn, and TikTok.  Experienced across B2C, retail, automotive, and lead-generation businesses, with a strong focus on growth, efficiency, and measurable impact.
 Shradha Sharma
 Kitchener, Ontario, Canada • shradha.minnie@gmail.com • LinkedIn: shradha-sharma-73763a96
@@ -6,13 +6,34 @@ Kitchener, Ontario, Canada • shradha.minnie@gmail.com • LinkedIn: shradha-sh
 Specialist, Marketing Technology Operations
 Results‑driven marketing professional with 13+ years of experience leading digital marketing, social media marketing, pixel management, conversion API, demand generation, and brand growth initiatives across automotive, education, SaaS, and enterprise technology sectors. Proven ability to scale traffic, leads, and conversions through data‑driven strategy, SEO, paid media, marketing automation, and cross‑functional leadership. Adept at managing multi‑location marketing programs, budgets, vendors, and high‑performing teams.
 
-CORE COMPETENCIES
-- Digital Marketing Strategy 
-- Pixel management • Email Marketing • Growth Marketing • SEO (On‑page, Off‑page, Local) • Google Ads & Bing Ads • Meta/Facebook Ads • Marketing Automation (HubSpot) • Google Analytics, GA4, GTM • Data Studio / Looker Studio • Conversion Rate Optimization • Landing Pages • Content Marketing • Social Media Marketing • Marketing Budget Management • Vendor Management • Campaign Reporting & Attribution • conversion tracking • Team Leadership • Stakeholder Communication
+**CORE COMPETENCIES**
 
-PROFESSIONAL EXPERIENCE
+- Digital Marketing Strategy 
+- Pixel management
+- Email Marketing
+- Growth Marketing
+- SEO (On‑page, Off‑page, Local)
+- Google Ads & Bing Ads 
+- Meta/Facebook Ads
+- Marketing Automation (HubSpot)
+- Google Analytics, GA4, GTM
+- Data Studio / Looker Studio
+- Conversion Rate Optimization
+- Landing Pages
+- Content Marketing
+- Social Media Marketing
+- Marketing Budget Management
+- Vendor Management
+- Campaign Reporting & Attribution
+- Conversion tracking
+- Team Leadership
+- Stakeholder Communication
+
+**PROFESSIONAL EXPERIENCE**
+
 Digital Marketing Executive — The Humberview Group (Automotive)
 Mar 2021 – Jan 2026 | Ontario, Canada
+
 Led monthly digital marketing strategy for multiple dealership locations, driving consistent growth in qualified leads and showroom traffic.
 Created extensive social media strategy to capture new-car shoppers interest and increased lead flow by 35% in the first quarter.
 Planned, executed, and optimized paid campaigns across Google, Bing, and Meta platforms, improving cost‑per‑lead and conversion efficiency.
